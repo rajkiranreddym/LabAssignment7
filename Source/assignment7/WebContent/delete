@@ -1,0 +1,8 @@
+<html>
+<body>
+<div class=body>
+<center><h3>Account removed successfully </h3></center>
+<center><button onclick="location.href = 'index.html' " id="myButton" class="button turquoise" >Goto Homepage</button></center>
+</div>
+</body>
+</html>

@@ -1,0 +1,9 @@
+<html>
+		<body background="intro-bg.jpg norepeaet">
+		<div class="body">
+		<center>password updated successfully</center><br >
+		<button onclick="location.href = 'index.html' id="myButton" class="button turquoise" >Logout</button>
+		</div>
+		</body>
+		</html>
+		

@@ -1,0 +1,14 @@
+<html>
+<body background-image:="intro-bg.jpg">
+<div class="body">
+<form action='update' method='get'>
+<br /><center>New Password : <input type = 'password' name='update_password' placeholder="Enter New Password">
+<input type = 'submit' value='Update'></center>
+</form><br />   
+
+<form action='delete' method='get'>
+<center><input type = 'submit' value='Remove Account'></center>
+</form>
+</div>
+</body>
+</html>
